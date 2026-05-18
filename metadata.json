@@ -1,0 +1,8 @@
+{
+  "name": "SentinelRisk AI",
+  "description": "AI-powered risk assessment assistant for mapping security policies to NIST CSF frameworks and performing automated gap analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
